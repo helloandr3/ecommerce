@@ -8,6 +8,8 @@ You can see a demo [here](http://146.235.60.74:3456/).
 
 There is an API swagger documentation [here](http://146.235.60.74:5000/swagger/doc)
 
+The project is hosted in an OCI instance.
+
 Requirements to run it locally:
  - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) - this [script](https://github.com/docker/docker-install?tab=readme-ov-file) is a convenience for install it in linux distros.
 
